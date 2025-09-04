@@ -19,4 +19,8 @@ Hello there. I'm Arkria.
   </a>
 </p>
 
-![visitors](https://count.getloli.com/get/@AkinaLTS?theme=rule34)
+<p align="center">
+  <a href="https://github.com/AkinaLTS">
+    <img src="https://count.getloli.com/get/@AkinaLTS?theme=rule34"/>
+  </a>
+</p>
