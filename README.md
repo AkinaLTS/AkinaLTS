@@ -6,5 +6,7 @@
   <a href="https://github.com/AkinaLTS">
     <img src="https://count.getloli.com/get/@AkinaLTS?theme=rule34"/>
   </a><br>
-  <i><sub>Profile Pic: <a href="https://www.pixiv.net/artworks/151907786">Vespertilio</a></sub></i>
+  <a href="https://www.pixiv.net/artworks/151907786">
+    <img src="assets/profile-pic-credit.svg" alt="Profile Pic: Vespertilio"/>
+  </a>
 </p>
