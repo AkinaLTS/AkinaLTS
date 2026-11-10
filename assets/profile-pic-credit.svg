@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="24" viewBox="0 0 260 24">
+  <style>
+    text { font: italic 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #24292f; }
+    @media (prefers-color-scheme: dark) { text { fill: #f0f6fc; } }
+  </style>
+  <text x="130" y="16" text-anchor="middle" opacity="0.5">Profile Pic: Vespertilio</text>
+</svg>
