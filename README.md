@@ -1,4 +1,3 @@
-<!-- markdownlint-disable MD013 MD041 MD033 MD045 MD040 -->
 <p align="center">
   Anyway, thank you for coming to see me.<br>
   <a href="https://github.com/AkinaLTS">
@@ -6,5 +5,6 @@
   </a><br>
   <a href="https://github.com/AkinaLTS">
     <img src="https://count.getloli.com/get/@AkinaLTS?theme=rule34"/>
-  </a>
+  </a><br>
+  <i><sub>Profile Pic: <a href="https://www.pixiv.net/artworks/151907786">Vespertilio</a></sub></i>
 </p>
